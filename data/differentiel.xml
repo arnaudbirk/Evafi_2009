@@ -1,0 +1,26 @@
+<Differentiel>
+  <Creation>
+    <Cle>125435</Cle>
+    <Classe>Construction ponctuelle</Classe>
+    <Geometrie>
+       <Point>656000.0 6567000.1 34.5</Point>
+    </Geometrie>
+    <Nature>Eolienne</Nature>
+    <Puissance>1200</Puissance>
+  </Creation>
+  <Destruction>
+    <Cle>1432534</Cle>
+    <Classe>Ligne électrique</Classe>
+    <Geometrie>
+       <Polyligne>656000.0 6567000.1 34.5 …. … … …</Polyligne>
+    </Geometrie>
+    <Tension>64kV</Tension>
+  </Destruction>
+  <Modification>
+    <ObjetDebut>
+       <Cle> …</Cle>
+    </ObjetDebut>
+    <ObjetFin>Les géométrie et champs de l’objet de fin.
+    </ObjetFin>
+  </Modification>
+</Differentiel>
